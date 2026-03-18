@@ -31,4 +31,10 @@ git clone https://github.com/O-thedev/events-manager
 
 # Activate the plugin
 wp plugin activate events-manager
+```
+
+# Reminder
+
+Also if you don't know; If you get "page not found" do the following:
+Go to WordPress Admin → Settings → Permalinks. click "Save Changes" 
 
